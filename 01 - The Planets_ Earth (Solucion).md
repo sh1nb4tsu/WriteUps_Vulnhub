@@ -1,4 +1,3 @@
-#escalada #dominios_DNS #dirb #wfuzz #XOR #base64 #tty_python #suid #ltrace 
 Lo primero que haremos sera ir a la pagaina de Vulnhub y concretamente a la siguiente direccion para descargar la maquina "Earth":
 https://www.vulnhub.com/entry/the-planets-earth,755/
 Una vez descargada (es una ".ova"), y montada en nuestro programa de maquinas virtuales, empezaremos usando un ARP-SCAN (o NETDISCOVER) para hallar la IP de la maquina victima:
